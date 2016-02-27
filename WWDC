@@ -1,0 +1,37 @@
+WWDC2015：
+发布主题以OS X 和iOS 以及 watchOS系统为主
+大多以系统优化和性能提升为主
+
+OS X：
+新版本命名为 EI Capitan
+正式采用Metal for Mac图形加速引擎
+Metal融合了OpenCL和OpenGL两种高效图形渲染的API，
+Adobe的AfterEffects后期特效能获得8倍的性能提升
+
+
+iOS：
+iOS 9 从整个系统的最底层开始全面提升
+于iPad的整合更加完整
+为了能让搜索更好的支持第三方程序，苹果首次开放了搜索相关的API接口
+iOS 9 中的Apple Pay：已经有超过100个品牌或商家支持苹果支付
+note备忘录，除了加入复选框提醒，还能识别笔迹，可以粘贴截图
+地图：改良了Transit功能
+新增默认程序 news（新闻）
+iPad输入法增加支持双指手势选择文段
+增加了低电量模式
+swift 进阶为swift2 公测版 2015年7月份开放，最终版2015年秋季正式上线
+
+watchOS
+多种表面
+操作改进
+针对watchOS的开发套件可以在watchKit中找到，开放开发者下载
+
+WWDC 2014:
+iOS：
+Handoff功能的改进
+推出了iOS8操作系统
+iMessage的功能进一步增酱增加了发送语音的功能，支持群聊
+开放了输入法接口，允许第三方提供输入法
+开放了TouchID，允许第三方应用获得指纹信息
+HomeKit为智能硬件开放了互操作的借口
+推出语言swift
